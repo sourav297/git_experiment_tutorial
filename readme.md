@@ -1,0 +1,1 @@
+This is markdown file annotated text file.
