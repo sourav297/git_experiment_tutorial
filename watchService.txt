@@ -1,0 +1,4 @@
+Initially this file I created on feature_1_1 branch which is created from feature1 branch.
+
+
+To see all the Git History i.e. all branches, all commits install the extension Git Graph in VS Code and then go to source control and then click on the Git Graph logo and then you can see all the git History happened after initiallizing the git (i.e. after running git init command) on the folder.
